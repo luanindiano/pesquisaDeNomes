@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+
+/* Formataçao geral do corpo do site */
+body {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    background-color: #222; /* Fundo cinza escuro */
+    color: #fff; /* Texto branco */
+    margin-top: 100px;
+}
+
+input, button {
+    border-radius: 50px;
+    padding: 10px 20px;
+    border: none;
+    font-size: 16px;
+}
+
+input {
+    background-color: #333; /* Cinza um pouco mais claro para o input */
+    color: #fff;
+    width: 280px;
+}
+
+button {
+    background-color: #9900ff; /* Roxo neon */
+    color: #fff;
+    box-shadow: 0px 0px 10px rgba(153, 0, 255, 0.5); /* Sombra roxa para efeito neon */
+    transition: all 0.3s ease; /* Transição suave */
+}
+
+button:hover {
+    background-color: #c200ff; /* Roxo neon mais escuro ao passar o mouse */
+    box-shadow: 0px 0px 15px rgba(153, 0, 255, 0.7);
+}
+
+/* ... outros estilos ... */
+  section {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  div {
+    display: flex;
+    flex-direction: column;
+    align-items: left; /* Centraliza os elementos verticalmente dentro da div */
+    justify-content: center; /* Centraliza os elementos horizontalmente dentro da div */
+    width: 80%; /* Define a largura máxima da div */
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 0px 1000px 1000px 1000px;
+  }
+  .conteudo{
+   
+    background-color: black;
+  }
+  
+  .imagem {
+    width: 50px; /* Ajuste o tamanho da imagem conforme necessário */
+    height: 50px;
+    border: none;
+  }
+  h3{
+    text-align: center;
+    color: #c200ff;
+    margin: 10px;
+  }
+  p {
+    text-align: center; /* Garante que o texto dos parágrafos esteja sempre à esquerda */
+    line-height: 1.5;
+    
+  }
+  strong{
+    color: #c200ff;
+  }
