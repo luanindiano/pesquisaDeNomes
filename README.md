@@ -13,3 +13,7 @@ HTML, CSS e JavaScript
 
 Aqui esta a tela icom um exemplo de pesquisa!
 ![image](https://github.com/user-attachments/assets/36a2f4ce-1905-4693-aac1-9f2353e05c78)
+
+Observações:
+
+A base de dados com os Sobrenomes não esta completa, mas temos cerca de 25 nomes mais comuns utilizados no Brasil
