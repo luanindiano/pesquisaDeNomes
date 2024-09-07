@@ -11,5 +11,5 @@ Esse projeto faz parte do estudo de aplicação web utilizando HTML, CSS e JavaS
 Tecnologias utilizadas?
 HTML, CSS e JavaScript
 
-Aqui esta a tela inicial!
+Aqui esta a tela icom um exemplo de pesquisa!
 ![image](https://github.com/user-attachments/assets/36a2f4ce-1905-4693-aac1-9f2353e05c78)
